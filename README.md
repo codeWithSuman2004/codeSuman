@@ -1,3 +1,3 @@
 # codeSuman
-myFirstRepo
+myFirstRepository
 <p>Author: Suman Mal</p>
